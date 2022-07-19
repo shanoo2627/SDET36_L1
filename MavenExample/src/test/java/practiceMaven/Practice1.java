@@ -19,12 +19,7 @@ public class Practice1 {
 		Reporter.log("HomePage");
 		Reporter.log("AddToCart");	
 	}
-	@Test
-	public void SignOut() {
-		Reporter.log("SignOut");
-		Reporter.log("Signin");
-		Reporter.log("HomePage");
-		Reporter.log("AddToCart");	
-	}
+		
+	// hi
 }
 
