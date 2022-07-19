@@ -10,18 +10,21 @@ public class Practice1 {
 	public void SignIn() {
 		Reporter.log("Signin");
 		Reporter.log("HomePage");
-		Reporter.log("AddToCart");
-			
+		Reporter.log("AddToCart");		
 	}
 	@Test
 	public void SignOut() {
 		Reporter.log("SignOut");
 		Reporter.log("Signin");
 		Reporter.log("HomePage");
-		Reporter.log("AddToCart");
-		
-		
-		
+		Reporter.log("AddToCart");	
+	}
+	@Test
+	public void SignOut() {
+		Reporter.log("SignOut");
+		Reporter.log("Signin");
+		Reporter.log("HomePage");
+		Reporter.log("AddToCart");	
 	}
 }
 
