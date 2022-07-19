@@ -16,6 +16,10 @@ public class Practice1 {
 	@Test
 	public void SignOut() {
 		Reporter.log("SignOut");
+		Reporter.log("Signin");
+		Reporter.log("HomePage");
+		Reporter.log("AddToCart");
+		
 		
 		
 	}
