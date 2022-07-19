@@ -9,8 +9,9 @@ public class Practice1 {
 	
 	public void SignIn() {
 		Reporter.log("Signin");
-		
-		
+		Reporter.log("HomePage");
+		Reporter.log("AddToCart");
+			
 	}
 	@Test
 	public void SignOut() {
