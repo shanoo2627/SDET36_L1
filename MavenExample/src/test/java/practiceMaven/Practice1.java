@@ -19,7 +19,7 @@ public class Practice1 {
 		Reporter.log("Signin");
 		//Reporter.log("HomePage");
 		//Reporter.log("AddToCart");	
-		//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
+		
 	}
 	
 }
