@@ -17,10 +17,12 @@ public class Practice1 {
 	public void SignOut() {
 		Reporter.log("SignOut");
 		Reporter.log("Signin");
-		//Reporter.log("HomePage");
-		//Reporter.log("AddToCart");	
+		Reporter.log("HomePage");
+		Reporter.log("AddToCart");	
 		
 	}
 	
+		
+	// hi
 }
 
